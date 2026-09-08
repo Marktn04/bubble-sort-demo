@@ -1,0 +1,8 @@
+# Compiled programs
+generate
+mysort
+
+# Generated data and output
+*.dat
+*.out
+*.log
